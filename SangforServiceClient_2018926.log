@@ -1,0 +1,7 @@
+
+==========================================
+Wed Sep 26 00:56:02 2018
+
+EXCEPTION code=ACCESS_VIOLATION, addr: 0x0853557f7
+BACKTRACE: 1 stack frames:
+ #0 0x0853557f7 at  in 1_SangforL3Vpn.dll
